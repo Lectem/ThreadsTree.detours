@@ -1,0 +1,4 @@
+;LIBRARY      ThreadsTree.detours
+
+EXPORTS
+    DetourFinishHelperProcess @1 NONAME
